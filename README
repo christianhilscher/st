@@ -1,4 +1,9 @@
-st - simple terminal
+# st - simple terminal
 
-Current setup
+## Current patches
 
+* boldisnotbright
+* focus
+* nordtheme
+* scrollback-mouse
+* srollback-mouse-altscreen
